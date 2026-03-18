@@ -38,7 +38,7 @@ seed-internet-emulator/
 |------|-------|--------|
 | Week 1 | Group formation, GitHub setup, Teams chat, Explore Seed Emulator | ✅ Complete |
 | Week 2 | Install UTM + Kali Linux, Setup Seed Emulator, Explore source code | 🔄 In Progress |
-| Week 3 | Create Source Code dir, network.py, custom topology, deploy "Advanced Practice" | ⬜ Pending |
+| Week 3 | Create Source Code dir, network.py, custom topology, deploy "Advanced Practice" | 🔄 In Progress |
 
 ## References
 - [Seed Internet Emulator GitHub](https://github.com/seed-labs/seed-emulator)
